@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Martillo",
+        "price": 7000,
+        "image": "imagen/imagen-martillo.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name": "Destornillador",
+        "price": 4200,
+        "image": "https://dam-assets.fluke.com/s3fs-public/styles/product_slideshow_main/public/F-iphs2_02a_w.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Clavos",
+        "price": 4500,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_612252-MLA71900973528_092023-O.webp"
+    }
+     ,
+    {
+        "id": 4,
+        "name": "llave francesa",
+        "price": 1500,
+        "image": "https://www.wurth.com.ar/img/productos/2380-gr-llave-francesa-12.jpg"
+    }
+    ,
+    {
+        "id": 5,
+        "name": "Pico de loro ",
+        "price": 12000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_863250-MLA42840394246_072020-O.jpg"
+    }
+    ,
+    {
+        "id": 6,
+        "name": "Pinza ",
+        "price": 12000,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAFIStrT8spPIB8Ejpv2gI5UzmWlS5ZLMSCA&s"
+    
+    }
+]
