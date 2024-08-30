@@ -22,7 +22,7 @@
     {
         "id": 4,
         "name": "llave francesa",
-        "price": 1500,
+        "price": 15000,
         "image": "https://www.wurth.com.ar/img/productos/2380-gr-llave-francesa-12.jpg"
     }
     ,
@@ -36,7 +36,7 @@
     {
         "id": 6,
         "name": "Pinza ",
-        "price": 12000,
+        "price": 10000,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAFIStrT8spPIB8Ejpv2gI5UzmWlS5ZLMSCA&s"
     
     }
